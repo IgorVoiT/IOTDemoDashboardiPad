@@ -1,4 +1,4 @@
 # IOTDemoDashboardiPad
 Dashboard screen for IOT app, iPad layout.
 
-![Screenshot](/ReadmeResources/Screeshot.png)
+![Screenshot](/Contoso&#32;Demo/ReadmeResources/Screeshot.png)
