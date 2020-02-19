@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		78651EA823FC501300B70797 /* DropDown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78651EA723FC501300B70797 /* DropDown.swift */; };
+		78A48F0D23FD3A5E00206A1C /* Screeshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 78A48F0C23FD3A5E00206A1C /* Screeshot.png */; };
 		78EB603023FC12700001D68A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78EB602F23FC12700001D68A /* AppDelegate.swift */; };
 		78EB603223FC12700001D68A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78EB603123FC12700001D68A /* SceneDelegate.swift */; };
 		78EB603423FC12700001D68A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78EB603323FC12700001D68A /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 /* Begin PBXFileReference section */
 		45846A6BACE206C854F98070 /* Pods_Contoso_Demo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Contoso_Demo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		78651EA723FC501300B70797 /* DropDown.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DropDown.swift; sourceTree = "<group>"; };
+		78A48F0C23FD3A5E00206A1C /* Screeshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screeshot.png; sourceTree = "<group>"; };
 		78EB602C23FC12700001D68A /* Contoso Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Contoso Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		78EB602F23FC12700001D68A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		78EB603123FC12700001D68A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,14 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
+		78A48F0B23FD3A3C00206A1C /* ReadmeResources */ = {
+			isa = PBXGroup;
+			children = (
+				78A48F0C23FD3A5E00206A1C /* Screeshot.png */,
+			);
+			path = ReadmeResources;
+			sourceTree = "<group>";
+		};
 		78EB602323FC12700001D68A = {
 			isa = PBXGroup;
 			children = (
@@ -82,6 +92,7 @@
 		78EB602E23FC12700001D68A /* Contoso Demo */ = {
 			isa = PBXGroup;
 			children = (
+				78A48F0B23FD3A3C00206A1C /* ReadmeResources */,
 				78651EA923FC510A00B70797 /* Views */,
 				78EB602F23FC12700001D68A /* AppDelegate.swift */,
 				78EB603123FC12700001D68A /* SceneDelegate.swift */,
@@ -152,6 +163,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78A48F0D23FD3A5E00206A1C /* Screeshot.png in Resources */,
 				78EB603C23FC12720001D68A /* LaunchScreen.storyboard in Resources */,
 				78EB603923FC12720001D68A /* Assets.xcassets in Resources */,
 				78EB603723FC12700001D68A /* Main.storyboard in Resources */,
