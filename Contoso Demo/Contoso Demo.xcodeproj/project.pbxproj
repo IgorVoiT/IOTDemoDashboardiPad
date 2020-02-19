@@ -75,6 +75,7 @@
 		78EB602323FC12700001D68A = {
 			isa = PBXGroup;
 			children = (
+				78A48F0B23FD3A3C00206A1C /* ReadmeResources */,
 				78EB602E23FC12700001D68A /* Contoso Demo */,
 				78EB602D23FC12700001D68A /* Products */,
 				6C9474E03CD93D638D6DEA58 /* Frameworks */,
@@ -92,7 +93,6 @@
 		78EB602E23FC12700001D68A /* Contoso Demo */ = {
 			isa = PBXGroup;
 			children = (
-				78A48F0B23FD3A3C00206A1C /* ReadmeResources */,
 				78651EA923FC510A00B70797 /* Views */,
 				78EB602F23FC12700001D68A /* AppDelegate.swift */,
 				78EB603123FC12700001D68A /* SceneDelegate.swift */,
